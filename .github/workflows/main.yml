@@ -76,9 +76,9 @@ jobs:
 
         echo "Aplicação executada com sucesso!" 
 
-    -name: 4.5 Executando testes automatizados
+    - name: 4.5 Executando testes automatizados
 
-    run:   |
+     run: |
 
          echo "Iniciando bateria de testes..." 
          
